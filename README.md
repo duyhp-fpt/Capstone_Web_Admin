@@ -19,3 +19,5 @@
 + Import goods
 + Export goods
 + Notice of inventory
+
+### Link web app: https://capstone-web-admin-utnhandrugstore.vercel.app/
