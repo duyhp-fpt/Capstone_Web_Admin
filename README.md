@@ -20,4 +20,9 @@
 + Export goods
 + Notice of inventory
 
+## HTTP: Request data from a server
+Use the HttpClient.get() method to fetch data from a server.
+Get(url, options) --> Observable
+Use subcribe methods to listen Observable and execute
+
 ### Link web app: https://capstone-web-admin-utnhandrugstore.vercel.app/
